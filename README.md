@@ -16,3 +16,4 @@ O objetivo desse projeto é colocar em prática os conhecimentos adquiridos sobr
 
 ## Autor
 - [Bruno Dias](https://www.linkedin.com/in/bruno-diass-a379a1327/)# Pikachu
+# Pikachu
